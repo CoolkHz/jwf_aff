@@ -280,8 +280,14 @@ def run(invite_code):
 
 
 if __name__ == '__main__':
+    print("------------------------------------")
+    print("\033[5;34;46m---↓代刷请联系↓---\033[0m")
+    print('作者TG：\033[34m@coolkhz\033[0m')
+    print("Twitter：\033[34m@0xcoolkhz\033[0m")
+    print("---诚接定制脚本开发---")
+    print("------------------------------------")
     _filePath = input("请输入文件路径：").strip()
-    _invite_code = input("请输入大号邀请码：").strip()
+    _invite_code = input("请输入大号邀请码(例如：W38654078)：").strip()
     with open(_filePath, 'r') as f:
         for line in f:
             line = line.strip()
