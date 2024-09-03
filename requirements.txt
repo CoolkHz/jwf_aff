@@ -1,0 +1,5 @@
+curl_cffi==0.7.1
+loguru==0.7.2
+web==7.0
+Crypto
+binascii
