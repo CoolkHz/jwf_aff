@@ -24,7 +24,7 @@ git clone https://github.com/CoolkHz/jwf_aff.git
 3. 进入代码根目录并pip安装环境。
 
 ```
-cd jwf_aff && pip install -r requirements.py
+cd jwf_aff && pip install -r requirements.txt
 ```
 
 4. 创建token文件,每行一个推特的token。例如：
