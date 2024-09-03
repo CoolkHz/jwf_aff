@@ -14,14 +14,14 @@
 
 ### Python环境配置
 
-1. 自行配置python环境
-2. 拉取代码仓库
+1. 自行配置python环境。
+2. 拉取代码仓库。
 
 ```
 git clone https://github.com/CoolkHz/jwf_aff.git
 ```
 
-3. 进入代码根目录并pip安装环境
+3. 进入代码根目录并pip安装环境。
 
 ```
 cd jwf_aff && pip install -r requirements.py
@@ -39,6 +39,7 @@ bc26b0abe63c1eec3d77a1cdd7655e71f76dd482
 ```
 
 5. 执行`main.py`并填写token文件目录和要刷取邀请的邀请码。
+6. 如有需要可自行配置动态ip代理，代码内有注释。
 
 ```
 python main.py
