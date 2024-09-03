@@ -27,7 +27,7 @@ git clone https://github.com/CoolkHz/jwf_aff.git
 cd jwf_aff && pip install -r requirements.py
 ```
 
-4. 创建token文件,每行一个token。例如：
+4. 创建token文件,每行一个推特的token。例如：
 
 ```
 4b6da2c5e068e416579548c30184daf50b44c67a
