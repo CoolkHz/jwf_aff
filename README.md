@@ -1,6 +1,7 @@
 # JWF_AFF
 
 刷james woff项目邀请人数的脚本。
+
 `本脚本开源免费使用，拒绝打包售卖。`
 
 ---
@@ -48,5 +49,6 @@ python main.py
 `接各种项目的脚本开发，ui自动化脚本。`
 
 TG：[@coolkhz](https://t.me/coolkhz)
+
 Twitter (点点关注🎉️)：[CoolkHz (@0xcoolkhz) ](https://x.com/0xcoolkhz)
 
